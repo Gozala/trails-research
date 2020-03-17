@@ -36,6 +36,25 @@ There are several limitation to this workflow:
 - Other tools (e.g. Browser Extension) can query KSAP to surface connections in context. Making it possible to see it from places other than notes.
 - Other tools (e.g. Browser Extension) can reduce context switching by brining excerpts of references into place (maybe something like https://notes.andymatuschak.org).
 
+### Existing solutions
+
+Some tools seem to attempt to address cross linking problem by scoping it a specific use case (e.g blogging) or keeping feedback loops out of the scope.
+
+- Gordon's [patterns][]
+- [Roam research][]
+
+- [Notational Velocity][]
+
+Others seem to take on the problems by moving all of the work to the confinements of their system.
+
+- [Notion][]
+
+- [Dropbox Paper][]
+
+- [Google Suite][]
+
+  
+
 ### Proposition
 
 Define a standard protocol that enables arbitrary tools to associate resources across their own boundaries (e.g note taking tool can submit associations to every link, tag in it). And allow querying for associations so that users don't have to reflect new association across different data sources, they could be just surfaced by querying KSAP.
@@ -65,3 +84,10 @@ Web extension that surfaces associations with a currently active document URL.
 
 [LSP]:https://microsoft.github.io/language-server-protocol/
 [Web Annotation Model]:https://www.w3.org/TR/annotation-model/
+[patterns]:http://gordonbrander.com/pattern/
+[Roam research]:https://roamresearch.com/
+[Notational Velocity]:http://notational.net/
+[Notion]:https://notion.so/
+[Dropbox Paper]:https://paper.dropbox.com
+[Google Suite]:https://drive.google.com/
+
