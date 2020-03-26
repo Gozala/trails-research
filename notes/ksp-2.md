@@ -1,4 +1,4 @@
-# The Knowledge Server 
+# The Knowledge Server
 
 We want to discover & surface connections between ideas, documents and concepts. This ability is something other tools have specialized in but each within their own silos.  By creating an index of that knowledge for a user, we can give them the superpower to discover connections among their own work where ever they go.
 
