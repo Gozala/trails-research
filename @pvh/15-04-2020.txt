@@ -1,0 +1,14 @@
+# 15-04-2020
+
+# demo goals
+
+## link interactions
+
+show back links being ingested, 
+
+## note ingestion with tags
+
+## xcrpt interaction
+ * if i save an xcrpt, i should see it as a backlink on the original page
+ * it should also show up on the xcrpt homepage since it links to both!
+
